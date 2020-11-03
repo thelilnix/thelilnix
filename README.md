@@ -16,3 +16,4 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-red)](https://ruby-lang.org/en/)
 [![JS](https://img.shields.io/badge/-JavaScript-yellow)](https://en.wikipedia.org/wiki/JavaScript)
 
+[![Sam Ebison's github stats](https://github-readme-stats.vercel.app/api?username=ebsa491&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
